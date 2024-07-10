@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+.first-section{
+background-image: url(/assets/Hero-bg.png);
+background-repeat: no-repeat;
+background-position: center;
+}
+.first-page-image{
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+}
+.first-page-head{
+    
+
+}
+.first-page-head h3{
+    text-align: center;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-weight: 800;
+    font-size: larger;
+}
+.first-page-head p{
+    text-align: center;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-weight: 400;
+}
+.btn-parrent{
+    display: flex;
+    justify-content: center;
+}
+.btn-parrent button{
+    height: 50px;
+    width: 208px;
+    cursor: pointer;
+    font-family: Azeret Mono;
+    font-size: medium;
+    color: white;
+    background-color: rgb(13, 19, 33);
+    border-radius: 10px;
+    margin: 30px 0;
+}
+/* First Page End */
+/* Second page start */
+.second-head h1{
+    text-align: center;
+    font-family: Azeret Mono;
+    font-weight: 800;
+    font-size: 30px;
+    color: rgb(13, 19, 33);
+}
+.second-head p,section-title-first p{
+    text-align: center;
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+}
+.section-title{
+    display: flex;
+    
+    justify-content: space-around;
+}
+.section-title-first h4{
+    color: rgba(13, 19, 33, 07);
+    font-family: Azeret Mono;
+    font-weight: 700;
+    font-size: 26px;
+}
+.section-title-first button{
+    height: 30px;
+    width: 150px;
+    font-family: Azeret Mono;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.second-titles{
+    display: flex;
+    justify-content: space-around;
+}
