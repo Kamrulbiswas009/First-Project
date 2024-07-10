@@ -93,6 +93,8 @@ background-position: center;
     
 }
 .skill-container{
+    display: flex;
+    flex-direction: column;
     gap: 10px;
 }
 .skill{
@@ -113,8 +115,7 @@ background-position: center;
 
 .sixth-section{
     background-image: url(/assets/handshake.jpg);
-    height: 313px;
-    width: 1140px;
+    padding-bottom: 50px;
     
     background-repeat: no-repeat;
     background-position: center;
@@ -135,4 +136,5 @@ background-position: center;
 .main-footer{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
