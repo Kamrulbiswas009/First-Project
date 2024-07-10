@@ -98,6 +98,7 @@ background-position: center;
     gap: 10px;
 }
 .skill{
+    font-family: Azeret Mono;
     border: 1px solid black;
     padding: 30px;
     border-radius: 8px;
@@ -137,4 +138,7 @@ background-position: center;
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.second-head p{
+    font-family: Azeret Mono;
 }
