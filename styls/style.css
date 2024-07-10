@@ -142,3 +142,21 @@ background-position: center;
 .second-head p{
     font-family: Azeret Mono;
 }
+.footer-head{
+    font-family: Azeret Mono;
+    font-weight: 900;
+}
+.mother-dev{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mother-dev-second button{
+    width: 150px;
+    height: 30px;
+    font-family: Azeret Mono;
+    font-weight: 700;
+    border-radius: 4px;
+    background-color: aliceblue;
+    cursor: pointer;
+}
