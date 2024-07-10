@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
 .first-section{
-background-image: url(/assets/Hero-bg.png);
+background-image: url(./assets/Hero-bg.png);
 background-repeat: no-repeat;
 background-position: center;
 }
@@ -115,7 +115,7 @@ background-position: center;
 
 
 .sixth-section{
-    background-image: url(/assets/handshake.jpg);
+    background-image: url(./assets/handshake.jpg);
     padding-bottom: 50px;
     
     background-repeat: no-repeat;
