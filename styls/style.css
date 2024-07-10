@@ -101,3 +101,38 @@ background-position: center;
     border-radius: 8px;
     
 }
+.submit-btn{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+
+
+
+
+.sixth-section{
+    background-image: url(/assets/handshake.jpg);
+    height: 313px;
+    width: 1140px;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.submit-container h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    color: aliceblue;
+    padding-top: 70px;
+    font-family: Azeret Mono;
+}
+.submit-container p{
+    text-align: center;
+    font-family: Azeret Mono;
+    color: rgb(255, 255, 255);
+}
+.main-footer{
+    display: flex;
+    justify-content: space-between;
+}
